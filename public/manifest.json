@@ -1,0 +1,15 @@
+{
+  "short_name": "ResQNova",
+  "name": "ResQNova - AI-Powered Real-Time Disaster Intelligence & Response",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%23ef4444'><circle cx='96' cy='96' r='90' fill='%230f172a'/><path d='M96 32L160 148H32L96 32zm0 28l-44 80h88l-44-80zm-8 44h16v24H88v-24zm0 32h16v12H88v-12z' fill='%23ef4444'/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#080c14",
+  "theme_color": "#080c14",
+  "display": "standalone"
+}
